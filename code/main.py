@@ -41,7 +41,7 @@ while not board.is_game_over():
         else:
             print("Illegal move! Try again.\n")
     except:
-        print("Sorry! Error.")
+        print("Sorry! Error!!!!!!")
 
 
 
